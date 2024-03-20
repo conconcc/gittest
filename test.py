@@ -1,4 +1,3 @@
-print("helll world")
+print("A")
 
-print("{}개의 무언가가 존재".format(3))
-print("a")
+print("give me some chicken")
